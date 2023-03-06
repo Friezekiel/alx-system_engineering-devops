@@ -1,2 +1,2 @@
-
-i!/bin/baIMAL
+#!/bin/bash
+printf "%x\n" $DECIMAL
